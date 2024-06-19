@@ -122,7 +122,6 @@ html {
   left: var(--counter-container-left); 
   bottom: var(--counter-container-bottom); 
   font-size: clamp(3rem , 5vw , 5rem);
-  /* opacity: 0; */
 }
 
 
